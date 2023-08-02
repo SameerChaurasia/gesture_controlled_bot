@@ -1,0 +1,10 @@
+1) Arduino nano - 2x
+2) NRF24L01 Module - 2x a
+3) MPU 6050 a
+4) L293D IC a
+5) BO Motor & wheel a
+6) Zero pcb female header a
+7) 7805 voltage regulator a
+8) acrylic sheet
+9) 9 volt battery 
+10) jumper wires
